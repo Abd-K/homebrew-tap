@@ -1,6 +1,6 @@
 class Claudius < Formula
   desc "Claude Code usage limits in your macOS menu bar"
-  homepage "https://github.com/Abd-K/claudius-claude-code-usage"
+  homepage "https://abd-k.github.io/claudius-claude-code-usage/"
   url "https://github.com/Abd-K/claudius-claude-code-usage/archive/refs/tags/v1.1.1.tar.gz"
   sha256 "ed7d1b043ac1a624217afba04d7597da975910647c16a7e9d16b7866d9708950"
   license "MIT"
